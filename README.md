@@ -1,5 +1,3 @@
-<h1 align="center">{Dominik Bogusz}</h1>
-
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
@@ -24,13 +22,15 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
+![screenshot](![Screenshot 2023-08-02 at 16-46-40 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/02d7df16-41ad-42e9-9a85-88e927e2e22d)
+)
+![screenshot](![Screenshot 2023-08-02 at 16-46-55 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/972ea70f-cc54-44b1-b9e8-dbd1987a394d)
+)
 
 ### Built With
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Features
 
