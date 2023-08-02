@@ -21,11 +21,10 @@
 - [Features](#features)
 
 ## Overview
-
-(![Screenshot 2023-08-02 at 16-46-40 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/02d7df16-41ad-42e9-9a85-88e927e2e22d)
-
-(![Screenshot 2023-08-02 at 16-46-55 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/972ea70f-cc54-44b1-b9e8-dbd1987a394d)
-
+<div align="center">
+![Screenshot 2023-08-02 at 16-46-40 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/02d7df16-41ad-42e9-9a85-88e927e2e22d]
+![Screenshot 2023-08-02 at 16-46-55 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/972ea70f-cc54-44b1-b9e8-dbd1987a394d]
+</div>
 
 ### Built With
 
