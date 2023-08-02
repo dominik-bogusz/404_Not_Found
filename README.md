@@ -22,9 +22,10 @@
 
 ## Overview
 <div style="text-align:center;">
+
    ![Screenshot 2023-08-02 at 16-46-40 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/6f6e5bfd-0538-48ec-a017-b2d6455ca6fc)
+   </div>
    ![Screenshot 2023-08-02 at 16-46-55 Devchallenges](https://github.com/dominik-bogusz/404_Not_Found/assets/47494336/22114b06-1b71-4fb8-b156-eef609c10cd5)
-</div>
 
 ### Built With
 
