@@ -1,0 +1,66 @@
+:root {
+    --dark: #333333:
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Space Mono', monospace;
+}
+
+img {
+    max-width: 100%;
+}
+
+article {
+    padding: 2.5rem;
+}
+
+article p {
+    font-size: 1.1rem;
+}
+
+article p, button {
+    margin: 2rem 0rem;
+}
+h1{
+    font-size: 3rem;
+    word-spacing: 0.85rem;
+}
+
+h2 {
+    text-transform: uppercase;
+    margin: 1.5rem 2rem 4vh;
+}
+
+button {
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 1.5rem 2.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: #222222;
+}
+
+footer p {
+    text-align: center;
+    opacity: 60%;
+}
+
+@media (min-width: 768px) {
+    section {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5rem;
+        align-items: center;
+      }
+}
